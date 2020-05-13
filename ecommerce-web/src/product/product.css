@@ -1,0 +1,8 @@
+.product {
+	max-width: 15rem;
+	padding: 20px;
+}
+
+.product img {
+	max-height: 20rem;
+}
